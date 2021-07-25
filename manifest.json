@@ -1,0 +1,9 @@
+{
+    "domain": "harmony_helper",
+    "name": "Harmony Helper",
+    "version": "0.0.1",
+    "documentation": "https://www.example.com",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+  }
